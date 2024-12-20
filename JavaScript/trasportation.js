@@ -1,3 +1,9 @@
+/*
+Creator: Ginnie Steck 
+Perpose: Take in Transportation information and calculate their carbon footprint 
+Completion Status: Unfinished
+*/
+
 "use strict";
 
 const ps = require("prompt-sync");
