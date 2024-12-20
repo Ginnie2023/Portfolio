@@ -1,0 +1,4 @@
+All of these projects were created useing vscode, and then pasted into my c++ portfolio folder. 
+This means that they won't nessecarily run by pulling it, because of compiling path is awkward.
+
+It's pretty much like a text files.
